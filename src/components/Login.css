@@ -1,0 +1,17 @@
+.login-form {
+    margin-top: 10em;
+    display: list-item;
+    align-items: center;
+    flex-direction: center;
+    justify-content: center;
+}
+
+.login-form-header {
+    font-size: large;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+
+.login-form-body {
+    text-align: center;
+}
